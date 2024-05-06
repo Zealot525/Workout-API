@@ -1,0 +1,4 @@
+This is a API project that uses both the Sheety documentation as well as the nutritionix documenatation to track your workout. Simply sign in to both sheety and nutritionix, get your personal ID and key to start using. When runned, a prompt will ask what workout you have done, just simply type the workout that you have done and it will automatically update it into google sheets. 
+
+Nutritionix: https://trackapi.nutritionix.com/docs/#/
+Sheety: https://sheety.co/
